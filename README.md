@@ -1,8 +1,6 @@
 # Angular_course_by_Maximilian_Schwarzmüller
 
-# [Burger App](https://angular8-ng-course-recipe-book.web.app/auth)
-
-[Firebase deploy of Recipe App](https://angular8-ng-course-recipe-book.web.app/auth) - https://angular8-ng-course-recipe-book.web.app/auth
+# [Burger App](https://angular8-ng-course-recipe-book.web.app/auth) -  https://angular8-ng-course-recipe-book.web.app/auth
 
 <p align = "center">
 <img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular1.JPG">
