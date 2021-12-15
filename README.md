@@ -1,5 +1,16 @@
 # Angular_course_by_Maximilian_Schwarzmüller
 
+* **Angular architecture**
+* **TypeScript with Angular**
+* **Directives / Components**
+* **Databinding**
+* **Routing / navigation handling**
+* **Pipes**
+* **Web access (e.g. RESTful servers)**
+* **Dependency Injection**
+* **Modules**
+* **NgRx / complex state management**
+
 # [Burger App](https://angular8-ng-course-recipe-book.web.app/auth) -  https://angular8-ng-course-recipe-book.web.app/auth
 
 <p align = "center">
